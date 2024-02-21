@@ -27,3 +27,5 @@ replay_pid*
 out/
 variables/variables.iml
 new_module/
+
+*.iml
